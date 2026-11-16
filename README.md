@@ -1,4 +1,4 @@
-# -Principal-Component-Analysis-PCA-on-Iris
+# Principal-Component-Analysis-PCA-on-Iris
 Experiment 6
 # AIM:
  Reduce 4D Iris data to 2 principal components and visualize species separation.
